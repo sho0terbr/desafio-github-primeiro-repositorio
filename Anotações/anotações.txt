@@ -2,7 +2,7 @@ git init --> incia o git na pasta;
 git config --global user.email "email---";
 git config --global user.name Rafael;
 git add * --> adiciona para o stage;
-git add . -- adiciona tido da work table para o stage;
+git add . -- adiciona tudo da work table para o stage;
 git commit -m "commit inicial";
 
 
