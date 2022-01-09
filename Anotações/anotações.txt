@@ -4,6 +4,9 @@ git config --global user.name Rafael;
 git add * --> adiciona para o stage;
 git add . -- adiciona tudo da work table para o stage;
 git commit -m "commit inicial";
+git push ---> envia
+git pull origin master ---
+
 
 
 
